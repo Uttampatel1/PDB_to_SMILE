@@ -1,0 +1,15 @@
+cibuildwheel
+patchelf
+patchelf-wrapper
+
+openbabel-wheel
+
+# new PDB Vis
+stmol==0.0.9
+py3Dmol==2.0.4
+numpy==1.26.3
+pandas==2.1.4
+pillow==10.2.0
+rdkit-pypi
+ipython_genutils
+streamlit-ketcher
